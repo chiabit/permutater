@@ -1,0 +1,20 @@
+{
+    "name": "chiabit/permutater",
+    "description": "Permutation Generator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chiabit",
+            "email": "info@chiabit.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Chiabit\\Permutater": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
